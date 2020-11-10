@@ -34,3 +34,4 @@ States
               n - potassium inactivation
               Time - time (s)
     
+![](https://raw.githubusercontent.com/aliseif321/Wang-Buzsaki_model_with_Runge-Kutta_4th_Order_Method_for_one_neuron/main/Euler%20VS%20Runge-Kutta%204th%20Order%20.png)
